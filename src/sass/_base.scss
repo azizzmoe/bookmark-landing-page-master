@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
+
+// variables
+$Soft-Blue: #5368df;
+$Soft-Red: #fa5757;
+$Grayish-Blue: #9194a1;
+$Very-Dark-Blue: #252b46;
+
+$Fsize: 18px;
+$Ffamily: "Rubik", sans-serif;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $Grayish-Blue;
+}
